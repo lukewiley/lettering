@@ -1,20 +1,15 @@
 /* Your Styling */
 
-h1 {
-	background: #f0f;
-	color: #fff;
-	margin: 2em auto 0 auto;
-	height: 100px;
-	width: 100px;
-
-	/* Horiz Center*/
-	text-align: center;
-	line-height: 100px;
-	/* Make into Circle */
-	border-radius: 100px;
+section {
+	margin: 0 auto;
 }
 
-h1:hover {
-	background: black;
-	transition: background .5s; 
+
+h1 {
+	margin: 0 auto;
+	text-align: center;
+}
+
+.char1 {
+	font-size: 2em;
 }
